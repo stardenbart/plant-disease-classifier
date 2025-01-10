@@ -26,11 +26,11 @@ The following libraries are used in the application:
 
 ## Project Structure
 plant-disease-classification/
-├── app.py            # Main application script
-├── utils.py          # Utility functions for preprocessing and model architecture
-├── model/            # Directory for trained models
-├── info/             # Disease information files
-└── Data/             # Training data (optional, not included in the repo)
+├── app.py: Main application script
+├── utils.py: Utility functions for preprocessing and model architecture
+├── model/: Directory for trained models
+├── info/: Disease information files
+└── Data/: Training data (optional, not included in the repo)
 
 ## Usage
 1. Run the application:
